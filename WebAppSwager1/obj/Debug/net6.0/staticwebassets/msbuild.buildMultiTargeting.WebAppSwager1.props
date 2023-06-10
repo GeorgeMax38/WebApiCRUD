@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAppSwager1.props" />
+</Project>
