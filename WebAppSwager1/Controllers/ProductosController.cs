@@ -6,7 +6,7 @@ using WebAppSwager1.Dtos;
 
 namespace WebAppSwager1.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class ProductosController : ControllerBase
